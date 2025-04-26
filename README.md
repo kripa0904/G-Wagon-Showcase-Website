@@ -14,7 +14,7 @@ External links
 
 🚀 How To Run Locally
 Clone the repo: git clone https://github.com/kripa0904/G-Wagon-Showcase-Website.git
-Open index.html in your browser.
+Open g1.html in your browser.
 
 🤝 Credits
 Images: Mercedes-Benz Official
